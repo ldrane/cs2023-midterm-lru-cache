@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_04_tda/480p15/partial_movie_files/Escena04TDA/2118183852_1026213218_223132457.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_04_tda/480p15/partial_movie_files/Escena04TDA/366519484_499328632_643346486.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_04_tda/480p15/partial_movie_files/Escena04TDA/366519484_1138222469_4256885699.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_04_tda/480p15/partial_movie_files/Escena04TDA/366519484_195558079_3671429337.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_04_tda/480p15/partial_movie_files/Escena04TDA/366519484_1912907488_3470207654.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_04_tda/480p15/partial_movie_files/Escena04TDA/366519484_195558079_438453484.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_04_tda/480p15/partial_movie_files/Escena04TDA/366519484_2782029451_964847116.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_04_tda/480p15/partial_movie_files/Escena04TDA/366519484_3829448948_2185915320.mp4'

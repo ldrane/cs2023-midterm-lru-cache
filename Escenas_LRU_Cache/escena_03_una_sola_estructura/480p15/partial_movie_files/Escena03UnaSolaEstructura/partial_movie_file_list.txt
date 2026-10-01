@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_03_una_sola_estructura/480p15/partial_movie_files/Escena03UnaSolaEstructura/2118183852_3212264492_223132457.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_03_una_sola_estructura/480p15/partial_movie_files/Escena03UnaSolaEstructura/366519484_3880968470_3084179705.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_03_una_sola_estructura/480p15/partial_movie_files/Escena03UnaSolaEstructura/366519484_4003976963_4098237384.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_03_una_sola_estructura/480p15/partial_movie_files/Escena03UnaSolaEstructura/366519484_917485386_764979783.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_03_una_sola_estructura/480p15/partial_movie_files/Escena03UnaSolaEstructura/366519484_349589963_4198373850.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_03_una_sola_estructura/480p15/partial_movie_files/Escena03UnaSolaEstructura/366519484_376987763_1222206531.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_03_una_sola_estructura/480p15/partial_movie_files/Escena03UnaSolaEstructura/366519484_3873173991_3541708575.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_03_una_sola_estructura/480p15/partial_movie_files/Escena03UnaSolaEstructura/366519484_1996948017_241025253.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_03_una_sola_estructura/480p15/partial_movie_files/Escena03UnaSolaEstructura/366519484_4039060768_3271731069.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_03_una_sola_estructura/480p15/partial_movie_files/Escena03UnaSolaEstructura/366519484_1700385131_1215245435.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_03_una_sola_estructura/480p15/partial_movie_files/Escena03UnaSolaEstructura/366519484_206880151_3754134425.mp4'
+file 'file:C:/Algoritmos y Estructura de Datos/AED_proyecto/media/videos/escena_03_una_sola_estructura/480p15/partial_movie_files/Escena03UnaSolaEstructura/366519484_525866859_2865461523.mp4'

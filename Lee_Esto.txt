@@ -1,0 +1,30 @@
+PASOS Y COMANDOS PARA CMD:
+
+Paso 1: Abrir la terminal de CMD
+Presiona la tecla Windows + R, escribe cmd y presiona Enter.
+
+Paso 2: Navegar a la carpeta del proyecto
+cd "C:\Algoritmos y Estructura de Datos\AED_proyecto"
+
+Paso 3: Activar el entorno virtual
+venv\Scripts\activate
+
+(Verás que al inicio de la línea aparece "(venv)")
+
+Paso 4: Abrir Visual Studio Code en esa carpeta
+code .
+
+--------------------------------------------------
+COMANDOS PARA TRABAJAR CON MANIM (Dentro de VS Code):
+
+1. Comprobar que Manim está activo:
+manim --version
+
+2. Renderizar prueba rápida en baja calidad:
+manim -pql scene.py LRUDemo
+
+3. Renderizar versión final en alta calidad (1080p):
+manim -pqh scene.py LRUDemo
+
+4. Desactivar el entorno virtual cuando termines:
+deactivate

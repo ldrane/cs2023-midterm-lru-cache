@@ -1,0 +1,8 @@
+venv/
+media/
+output/
+__pycache__/
+*.mp4
+*.png
+*.zip
+*.rar
